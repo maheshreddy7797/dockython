@@ -23,7 +23,7 @@
      against same dependencies.
 ```     
 
-# Virtuual Box:
+# Virtual Box:
 
 ```
     -VB is a software virtualisation package that installs on an operating system
