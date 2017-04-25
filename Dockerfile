@@ -10,4 +10,3 @@ WORKDIR /helloapp
 ADD . /helloapp
 #Run the python code
 CMD ["python3","helloapp.py"]
-CMD ["python3","pieapp.py"]
